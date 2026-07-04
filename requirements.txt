@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+pillow
+gradio
+requests
+beautifulsoup4   # for extracting title from news URLs (optional)
+tqdm
